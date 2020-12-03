@@ -1,0 +1,1 @@
+simple footer with black background

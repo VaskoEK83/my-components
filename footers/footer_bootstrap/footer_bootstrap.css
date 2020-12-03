@@ -1,0 +1,33 @@
+/*==== FOOTER STYLES ====*/
+
+html {
+  min-height: 100%;
+  position: relative;
+}
+
+body {
+  margin-bottom: 50px;
+}
+
+.footer {
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+  height: 50px;
+}
+
+/* helper colors */
+
+* {
+  box-sizing: border-box;
+}
+
+.content {
+  background-color: darkred;
+  color: white;
+}
+
+.footer {
+  background-color: blue;
+  color: white;
+}
